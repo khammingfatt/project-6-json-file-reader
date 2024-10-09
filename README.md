@@ -1,10 +1,6 @@
-# JSON to CSV Converter - Streamlit App
+# [JSON to CSV Converter - Streamlit App](<insert your webpage URL here>)
 
 This Streamlit application allows users to upload a JSON file and convert it to a CSV file. The app reads the contents of the uploaded JSON file, displays a preview of the data, and provides a downloadable CSV file.
-
-## Visit the Application
-
-🔗 [Streamlit URL for running the app](<insert your webpage URL here>)
 
 ## Features
 
